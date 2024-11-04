@@ -1,0 +1,16 @@
+{
+  "display": {
+    "name": "Comdex",
+    "description": "Comdex is an asset issuance and RWA aggregation chain secured by the Cosmos Hub. It enables users across the Cosmos ecosystem to diversify into RWA yields through a unified, secure platform that bridges traditional finance with DeFi.",
+    "links": {
+      "logo": "https://comdex.one/media-press-kit ",
+      "discord": "https://discord.com/invite/comdexofficial ",
+      "email": "info@comdex.one ",
+      "github": "https://github.com/comdex-official ",
+      "telegram": "https://t.me/ComdexChat ",
+      "twitter": "https://x.com/ComdexOfficial ",
+      "website": "https://comdex.one/ ",
+      "whitepaper": "https://paper.comdex.one/Comdex-Litepaper.pdf "
+    }
+  }
+}
